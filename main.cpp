@@ -1,9 +1,8 @@
 /*
 Daniel Moster, Section 5, d.moster@me.com
-Description: 
+Description: This project simulates creating a music playlist on a music player with text-based controls.
 
 This lab was coded using Visual Studio.
-Dr. Seppi has allowed me until December 16th at the end of the day to complete this lab with no late penalty.
 
 
 Test Cases
