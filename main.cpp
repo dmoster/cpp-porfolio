@@ -1,24 +1,7 @@
 /*
-Daniel Moster, Section 5, d.moster@me.com
-Description: 
+Daniel Moster
 
-
-Test Cases
-
-Case 1
-Input: 
-Expected Output: 
-Result: 
-
-Case 2
-Input: 
-Expected Output: 
-Result: 
-
-Case 3
-Input: 
-Expected Output: 
-Result: 
+This project was completed using Visual Studio.
 */
 
 #include <iostream>
