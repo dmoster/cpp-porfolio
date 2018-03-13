@@ -1,5 +1,5 @@
 /*
-Daniel Moster, Section 5, d.moster@me.com
+Daniel Moster
 Description: This is the header file of the Song class, containing member function declarations and private data 
    members.
 */
