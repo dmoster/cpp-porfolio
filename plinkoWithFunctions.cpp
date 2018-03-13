@@ -1,10 +1,9 @@
 /*
-Daniel Moster, Section 5, d.moster@me.com
+Daniel Moster
 Description: This program is a Plinko game simulator (using functions), where the player can select numbers to drop virtual chips into 
    virtual slots. The game then calculates the player's winnings ($) based on where the chip(s) land.
 
 This lab was completed using Visual Studio.
-Please allow me the use of 2 late days for this lab.
 
 Test Cases:
 Test 1:
