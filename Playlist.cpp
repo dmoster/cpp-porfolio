@@ -1,5 +1,5 @@
 /*
-Daniel Moster, Section 5, d.moster@me.com
+Daniel Moster
 Description: This is the .cpp file for the Playlist class, containing its member function definitions.
 */
 
